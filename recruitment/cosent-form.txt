@@ -1,0 +1,37 @@
+CONSENT TO PARTICIPATE
+
+# Project Title
+Nextcloud Study
+
+# Purpose of the Study
+This research is being conducted by Daphne Muller and Nimisha Vijay of Nextcloud, and Katharina Krombholz and Lea Gröber of the CISPA Helmholtz Center. We are inviting you to participate in this research project because you self-host Nextcloud and participated in the Nextcloud Community Survey. The purpose of this study is to investigate how Nextcloud is used and which factors are causing difficulties when hosting instances.
+
+# Procedures
+Your participation in this research is completely voluntary. You may choose not to take part at all. If you decide to participate in this research, you may stop participating at any time.
+The procedure involves completing an approximately 60 minute interview via Nextcloud Talk. Your interview will be recorded and the audio recording will be sent to a transcribing service. Your identity will not be linked to your interview recording.
+
+# Potential Risks and Discomforts
+There are no risks above those normally encountered on the internet anticipated from participating in this study.
+
+# Potential Benefits
+There are no direct benefits from participating in this research. We hope that, in the future, the self-hosting community will benefit from this study through understanding of the technology uses and experiences of self-hosters, informing future technology development, and improving information resources.
+
+# Confidentiality
+Any potential loss of confidentiality will be minimized by collecting study data anonymously and storing any research data on secure servers. Once we complete this project, we will anonymize all data for permanent  storage and archival, and will delete any non-anonymized data within 12 months.
+If we write a report or article about this research project, your identity will be protected to the maximum extent possible.
+
+# Compensation
+You will receive 30€ compensation for completing this interview. CISPA Helmholtz Center will cover compensational costs. CISPA is a publicly funded Research Center and is constrained to follow strict bureaucratic policies. Thus, it can take up to one month until you will receive compensation. CISPA is also limited as to how it can compensate participants. There a two options we can offer: (1) Participants, who belong to the Single Euro Payments Area (SEPA) and have an International Bank Account Number (IBAN) can choose to have the compensation directly payed to their banking account. (2) We offer Amazon vouchers.
+
+# Right to Withdraw and Questions
+If you decide to stop taking part in the study, if you have questions, concerns, or complaints, or if you need to report an injury related to the research, please contact the investigators:
+
+Lea Gröber
+CISPA Helmholtz Center for Information Security
+Stuhlsatzenhaus 5
+66123 Saarbrücken, Germany
+Room 2.21
+lea.groeber@cispa.de
+
+# Participant Rights
+This study was approved by the ethical review board of the faculty of Mathematics and Computer Science at Saarland University (https://erb.cs.uni-saarland.de/). If you have any questions regarding ethical considerations about the project please contact them. You may call anonymously if you wish.
